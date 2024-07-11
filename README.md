@@ -4,15 +4,15 @@
 
 ## 
 - [меня зовут Даниил]
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
+- [я изучаю веб программирование ]
+- [знаю такие языки как C,java,css,html](#features)
+- [мне 20]
+- [](#license)
 
 ## Installation
-
+What is Lorem Ipsum?
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 
 # Example installation commands
-git clone https://github.com/your-username/your-project.git
-cd your-project
-npm install
+What is Lorem Ipsum?
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.
